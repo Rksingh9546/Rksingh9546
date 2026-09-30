@@ -1,3 +1,4 @@
+https://ranjan-kumar-portfolio.netlify.app/
 # 💫 About Me:
 👋 Hi, I'm a Computer Science graduate and an aspiring Software Developer with a strong interest in Java, Python, SQL, Machine Learning, and problem-solving.<br><br>🔭 I'm currently working on: Building software and AI/ML-based projects, including MindWatch AI, an AI-based mental health monitoring system.<br>👯 I'm looking to collaborate on: Open-source projects, web development, AI/ML, and innovative software solutions.<br>🤝 I'm looking for help with: Improving my backend development, system design, and real-world software development skills.<br>🌱 I'm currently learning: Advanced Java, Data  Structures & Algorithms, SQL, Machine Learning, and backend development.<br>💬 Ask me about: Java, Python, SQL, Machine Learning, Random Forest, and software development.<br>⚡ Fun fact: I enjoy solving real-world problems through technology and continuously learning new skills.
 
